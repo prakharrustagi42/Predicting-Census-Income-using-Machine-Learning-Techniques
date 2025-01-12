@@ -1,6 +1,4 @@
-# Salary_Classifier
-
-**Project Title: Predicting Census Income Using Machine Learning Techniques**
+# Project Title: Predicting Census Income Using Machine Learning Techniques
 
 **Project Description:**
 In this project, I applied machine learning techniques to predict the annual income of individuals based on census data. The goal was to identify patterns and relationships in the data and develop a model that accurately predicts income.
