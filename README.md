@@ -1,6 +1,5 @@
 # Project Title: Predicting Census Income Using Machine Learning Techniques
 
----
 
 **Project Description:**
 In this project, I applied machine learning techniques to predict the annual income of individuals based on census data. The goal was to identify patterns and relationships in the data and develop a model that accurately predicts income.
@@ -8,11 +7,11 @@ In this project, I applied machine learning techniques to predict the annual inc
 ---
 
 **Methods:**
-1. Collected and preprocessed the census data using Python libraries such as **Pandas** and **NumPy**.
-2. Explored and visualized the data to identify patterns and relationships.
-3. Built and evaluated several machine learning models, including **Decision Trees**, **Random Forest**, and **Gradient Boosting**.
-4. Optimized the models using techniques like **hyperparameter tuning** and **feature selection**.
-5. Evaluated the performance of the final model using metrics such as **accuracy** and **F1 score**.
+- Collected and preprocessed the census data using Python libraries such as **Pandas** and **NumPy**.
+- Explored and visualized the data to identify patterns and relationships.
+- Built and evaluated several machine learning models, including **Decision Trees**, **Random Forest**, and **Gradient Boosting**.
+- Optimized the models using techniques like **hyperparameter tuning** and **feature selection**.
+- Evaluated the performance of the final model using metrics such as **accuracy** and **F1 score**.
 
 ---
 
@@ -23,6 +22,4 @@ In this project, I applied machine learning techniques to predict the annual inc
 ---
 
 **Conclusion:**
-This project demonstrates my ability to apply machine learning techniques to solve real-world problems and extract meaningful insights from data. The model developed in this project can predict individuals' income and support decision-making across various industries. This project highlights my technical expertise in **Python**, **data analysis**, and **machine learning**.
-
----
+This project demonstrates my ability to apply machine learning techniques to solve real-world problems and extract meaningful insights from data. The model developed in this project can predict individuals' income and support decision-making across various industries. This project highlights my technical expertise in **Python**, **
